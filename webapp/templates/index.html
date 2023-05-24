@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Dashboard</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">IoT Monitoring</h1>
+        
+        <div class="tabs">
+            <a class="tab" href="/">Assets</a>
+            <a class="tab" href="/alerts">Alerts</a>
+            <a class="tab" href="#">Sensors</a>
+        </div>
+
+
+        <div class="content">
+            <h2>Evaluation Metrics:</h2>
+            <ul>
+               
+                    <li>{{ metrics }}</li>
+                
+            </ul>
+        </div>
+
+        <div class="content">
+            <div class="row">
+                <div class="plot-container">
+                    <h2>Plot 1 - GEARBOX 1</h2>
+                    <div class="plot" id="plot1">
+                        <img src="data:image/png;base64,{{ plot_data1 }}" alt="Plot1">
+                    </div>
+                </div>
+                <div class="plot-container">
+                    <h2>Plot 2 - GEARBOX 2</h2>
+                    <div class="plot" id="plot2">
+                        <img src="data:image/png;base64,{{ plot_data2 }}" alt="Plot2">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="plot-container">
+                    <h2>Plot 3 - GEARBOX 3</h2>
+                    <div class="plot" id="plot3">
+                        <img src="data:image/png;base64,{{ plot_data3 }}" alt="Plot3">
+                    </div>
+                </div>
+                <div class="plot-container">
+                    <h2>Plot 4 - GEARBOX 4</h2>
+                    <div class="plot" id="plot4">
+                        <img src="data:image/png;base64,{{ plot_data4 }}" alt="Plot4">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

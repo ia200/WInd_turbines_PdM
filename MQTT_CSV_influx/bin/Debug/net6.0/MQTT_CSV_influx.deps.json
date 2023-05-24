@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MQTT_CSV_influx/1.0.0": {
+        "dependencies": {
+          "MQTTnet": "4.2.0.706"
+        },
+        "runtime": {
+          "MQTT_CSV_influx.dll": {}
+        }
+      },
+      "MQTTnet/4.2.0.706": {
+        "runtime": {
+          "lib/net6.0/MQTTnet.dll": {
+            "assemblyVersion": "4.2.0.706",
+            "fileVersion": "4.2.0.706"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MQTT_CSV_influx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MQTTnet/4.2.0.706": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WvGqQL9PbnG8wl/uMYTVRYXiZfiJE15M6RYNboGaFMSqPNPWy3iNq0bDPFwKgKFpbriNlSsSXOZQFMvpr5N62A==",
+      "path": "mqttnet/4.2.0.706",
+      "hashPath": "mqttnet.4.2.0.706.nupkg.sha512"
+    }
+  }
+}

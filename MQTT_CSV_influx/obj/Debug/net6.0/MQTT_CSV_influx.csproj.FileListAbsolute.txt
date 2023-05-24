@@ -1,0 +1,17 @@
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\obj\Debug\net6.0\MQTT_CSV_influx.csproj.AssemblyReference.cache
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\obj\Debug\net6.0\MQTT_CSV_influx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\obj\Debug\net6.0\MQTT_CSV_influx.AssemblyInfoInputs.cache
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\obj\Debug\net6.0\MQTT_CSV_influx.AssemblyInfo.cs
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\obj\Debug\net6.0\MQTT_CSV_influx.csproj.CoreCompileInputs.cache
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\bin\Debug\net6.0\MQTT_CSV_influx.exe
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\bin\Debug\net6.0\MQTT_CSV_influx.deps.json
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\bin\Debug\net6.0\MQTT_CSV_influx.runtimeconfig.json
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\bin\Debug\net6.0\MQTT_CSV_influx.dll
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\bin\Debug\net6.0\MQTT_CSV_influx.pdb
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\bin\Debug\net6.0\MQTTnet.dll
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\obj\Debug\net6.0\MQTT_CSV_influx.csproj.CopyComplete
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\obj\Debug\net6.0\MQTT_CSV_influx.dll
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\obj\Debug\net6.0\refint\MQTT_CSV_influx.dll
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\obj\Debug\net6.0\MQTT_CSV_influx.pdb
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\obj\Debug\net6.0\MQTT_CSV_influx.genruntimeconfig.cache
+C:\Users\User\desktop\c-sharp\MQTT_CSV_influx\obj\Debug\net6.0\ref\MQTT_CSV_influx.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n9PxTDRd9YqQdCxSDQKtx5Z9AJECZ2X6AJJBAOUaHBG8KDb600iAQN4LANLR7Lx3BhBr+h03vPQooJE3hTiUVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\desktop\\c-sharp\\MQTT_CSV_influx\\MQTT_CSV_influx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\mqttnet\\4.2.0.706\\mqttnet.4.2.0.706.nupkg.sha512"
+  ],
+  "logs": []
+}

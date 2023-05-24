@@ -1,0 +1,74 @@
+/* Reset default browser styles */
+body, html {
+    margin: 0;
+    padding: 0;
+	
+	background-color: grey;
+}
+
+/* Container */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Title */
+.title {
+    color: #3366CC;
+    text-align: center;
+}
+
+/* Tabs */
+.tabs {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.tab {
+    padding: 10px 20px;
+    background-color: #3366CC;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+/* Content */
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.plot-container {
+    width: calc(50% - 20px);
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin: 10px;
+}
+
+.plot {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+/* Responsive styles for smaller screens */
+@media (max-width: 600px) {
+    .content .plot {
+        width: 100%;
+    }
+}
